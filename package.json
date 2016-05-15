@@ -1,0 +1,19 @@
+{
+  "name": "seochecklist",
+  "version": "1.0.0",
+  "description": "SEOChecklist",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethwang14/SEOChecklist.git"
+  },
+  "author": "Kenneth Wang, Bjarte Klyve Larsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennethwang14/SEOChecklist/issues"
+  },
+  "homepage": "https://github.com/kennethwang14/SEOChecklist#readme"
+}
